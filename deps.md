@@ -72,7 +72,7 @@ Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/
 
     ..hey Mr. 00FlyingHashMan .. if you have win10 check the 
 	screenshot inside this rpo. 
-
+https://github.com/Tillkoeln/00GreenMan/blob/master/win10paths.png
 Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/
 Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/
 Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/
@@ -114,7 +114,7 @@ Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/
 
     ..hey Mr. 00FlyingHashMan .. if you have win10 check the 
 	screenshot inside this rpo. 
-
+https://github.com/Tillkoeln/00GreenMan/blob/master/win10paths.png
 Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/
 Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/
 Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/-Win/
